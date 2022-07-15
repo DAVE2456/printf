@@ -33,7 +33,6 @@ int _puts(char *str);
 int print_bigS(va_list l);
 int print_percent(va_list l);
 void print_number(int n);
-int count_digit(int i);
 
 /* _putchar.c */
 int _putchar(char);
