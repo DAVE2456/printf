@@ -29,6 +29,8 @@ int print_hexadecimal_low(va_list);
 int print_hexadecimal_upp(va_list);
 int print_pointer(va_list);
 int print_rev_string(va_list);
+int _puts(char *str);
+int print_bigS(va_list l);
 
 /* _putchar.c */
 int _putchar(char);
